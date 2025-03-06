@@ -61,5 +61,5 @@ npm start
 ## 📌 Conclusion
 This project is a **simple Gemini clone** using **React.js and Google API**. Future improvements include **adding authentication and enhancing the UI**. Contributions are welcome!
 
-📧 **Contact:** [Your Email/LinkedIn/GitHub]
+
 
