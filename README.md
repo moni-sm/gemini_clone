@@ -53,6 +53,9 @@ REACT_APP_GOOGLE_API_KEY=your_google_api_key
 npm start
 ```
 
+##Deployed with Vercel
+link - https://gemini-clone-git-main-monika-sms-projects.vercel.app/
+
 ## 📝 Future Enhancements
 🔹 User authentication
 🔹 Dark mode support
